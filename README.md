@@ -16,6 +16,11 @@ https://edu-github-clone.vercel.app/
 - [x] Styled Components
 - [x] TypeScript
 
+
+## Project Preview
+
+<img  src="https://user-images.githubusercontent.com/88467167/167219074-22e805cf-e976-484a-9b22-e0a947506ebf.png" />
+
 ## Starting Dev Environment
 
 1. Run `npm install` or `yarn install`.<br />
